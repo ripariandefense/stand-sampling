@@ -5,6 +5,7 @@ A short description of the project.
 
 Project Organization
 ------------
+```
 .
 ├── data
 │   ├── external       <- Data from third party sources.
@@ -22,5 +23,5 @@ Project Organization
 └── src                <- Source code for use in this project. Put R, python, or matlab scripts here
     └── __init__.py    <- Makes src a Python module. This means scripts can be imported into notebooks
 --------
-
+```
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
